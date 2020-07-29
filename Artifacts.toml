@@ -1,0 +1,80 @@
+[[ruby]]
+arch = "aarch64"
+git-tree-sha1 = "c4d5fa5873650e4cf9faf8c3d5fc91a9f0d63627"
+libc = "glibc"
+os = "linux"
+
+    [[ruby.download]]
+    sha256 = "5e92044bbc4894a1a784efd6d4032100172bb59d32d252c1276f8209eaaf44c8"
+    url = "https://github.com/JuliaBinaryWrappers/ruby_jll.jl/releases/download/ruby-v2.7.1+0/ruby.v2.7.1.aarch64-linux-gnu.tar.gz"
+[[ruby]]
+arch = "aarch64"
+git-tree-sha1 = "a65c604b168441e520e7be4e15f2404cc5ba925d"
+libc = "musl"
+os = "linux"
+
+    [[ruby.download]]
+    sha256 = "07e6c4a36f74d8234745d494b55a3a85097e660ec34165c2bf0358c876e2f3aa"
+    url = "https://github.com/JuliaBinaryWrappers/ruby_jll.jl/releases/download/ruby-v2.7.1+0/ruby.v2.7.1.aarch64-linux-musl.tar.gz"
+[[ruby]]
+arch = "armv7l"
+git-tree-sha1 = "227626176fdf01e63a041a57172e0049148db3db"
+libc = "glibc"
+os = "linux"
+
+    [[ruby.download]]
+    sha256 = "e609bb90c4a9f4a9b25cf88dd4883fadcfbde9c75c7bd60a87a70fccf7ac02cd"
+    url = "https://github.com/JuliaBinaryWrappers/ruby_jll.jl/releases/download/ruby-v2.7.1+0/ruby.v2.7.1.armv7l-linux-gnueabihf.tar.gz"
+[[ruby]]
+arch = "i686"
+git-tree-sha1 = "b754809f2d28919f1008cce8b34ddf807e4c5138"
+libc = "glibc"
+os = "linux"
+
+    [[ruby.download]]
+    sha256 = "44d946e7b6029505fb41cb0da6b507d13efc93b4275f75a6e63af5599fecb0d0"
+    url = "https://github.com/JuliaBinaryWrappers/ruby_jll.jl/releases/download/ruby-v2.7.1+0/ruby.v2.7.1.i686-linux-gnu.tar.gz"
+[[ruby]]
+arch = "i686"
+git-tree-sha1 = "2bcb1e5c8450d52d5508d8bc13d439954f053896"
+libc = "musl"
+os = "linux"
+
+    [[ruby.download]]
+    sha256 = "3a9b34121b3affaae18beefcbce8e5305c074dcbc0a97cffd765c4fd5103d34f"
+    url = "https://github.com/JuliaBinaryWrappers/ruby_jll.jl/releases/download/ruby-v2.7.1+0/ruby.v2.7.1.i686-linux-musl.tar.gz"
+[[ruby]]
+arch = "powerpc64le"
+git-tree-sha1 = "487b5fb52666714968f9c1e5a4a83e861425b57e"
+libc = "glibc"
+os = "linux"
+
+    [[ruby.download]]
+    sha256 = "7a6088234e7c58543746fccb907f3dcc9d0f7e73b81979ca28756bbaaff8ceed"
+    url = "https://github.com/JuliaBinaryWrappers/ruby_jll.jl/releases/download/ruby-v2.7.1+0/ruby.v2.7.1.powerpc64le-linux-gnu.tar.gz"
+[[ruby]]
+arch = "x86_64"
+git-tree-sha1 = "2d1182da2c131e1683c43db3771a4c85a07a5884"
+libc = "glibc"
+os = "linux"
+
+    [[ruby.download]]
+    sha256 = "c4a366170bf232f9baccd8c956f0f6331fc05a7d3df4cd42c62cea80b398f5a7"
+    url = "https://github.com/JuliaBinaryWrappers/ruby_jll.jl/releases/download/ruby-v2.7.1+0/ruby.v2.7.1.x86_64-linux-gnu.tar.gz"
+[[ruby]]
+arch = "x86_64"
+git-tree-sha1 = "a39138bc5661534a07fcf2ba852b0b230c4cda56"
+libc = "musl"
+os = "linux"
+
+    [[ruby.download]]
+    sha256 = "447c1c5db3da33116a02901bc09096cf30cf53635914afde648ed643a640f252"
+    url = "https://github.com/JuliaBinaryWrappers/ruby_jll.jl/releases/download/ruby-v2.7.1+0/ruby.v2.7.1.x86_64-linux-musl.tar.gz"
+[[ruby]]
+arch = "x86_64"
+git-tree-sha1 = "49ee03793a58074622d840025d67ba58d9ac45d1"
+os = "freebsd"
+
+    [[ruby.download]]
+    sha256 = "7a7a085acdcf47fe23a759814fd93f37706571c72a91e7d5e155e5147629958a"
+    url = "https://github.com/JuliaBinaryWrappers/ruby_jll.jl/releases/download/ruby-v2.7.1+0/ruby.v2.7.1.x86_64-unknown-freebsd11.1.tar.gz"
